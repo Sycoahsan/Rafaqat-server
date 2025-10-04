@@ -1,1 +1,2 @@
-requests==2.26.0
+pip install requests 
+pip install flask 
